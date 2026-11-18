@@ -1,0 +1,3 @@
+Chep file mssql-jdbc-xx.x.x.jre11.jar (Microsoft JDBC Driver for SQL Server) vao thu muc nay.
+Tai tai: https://learn.microsoft.com/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server
+(Giai nen file zip tai ve, lay file .jar trong thu muc "jars"; chon ban jre11 neu dung JDK 11 tro len.)

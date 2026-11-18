@@ -1,0 +1,7 @@
+# Cau hinh ket noi SQL Server.
+# Chep file nay thanh db.properties roi sua mat khau. KHONG dua db.properties len GitHub.
+host=localhost
+port=1433
+database=QuanLyDiemSV
+user=sa
+password=DOI_MAT_KHAU_CUA_BAN

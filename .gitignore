@@ -1,0 +1,7 @@
+# Thong tin bao mat
+db.properties
+# File bien dich / tam
+out/
+*.class
+*.log
+Thumbs.db
